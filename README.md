@@ -8,9 +8,13 @@ Libraries
 - Numpy
 
 ---
+
 <div align=center>
   
-![preview](https://github.com/user-attachments/assets/4027b3d6-9237-404b-b7ca-3f7d5d9335c7)
+
+![preview](https://github.com/user-attachments/assets/63f2b39b-8709-4e59-96c6-7a22f64ae5bd)
+
 
 </div>
+
 ---
